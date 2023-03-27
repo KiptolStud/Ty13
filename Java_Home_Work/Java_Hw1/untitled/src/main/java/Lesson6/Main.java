@@ -39,12 +39,7 @@ public class Main {
 
         scannerUser.close();
 
-       /* Scanner s = new Scanner(new File("C:\\Users\\User\\IdeaProjects\\homework6\\src\\main\\java\\homework6\\ListOfNotebook.txt"));
-        ArrayList<String> listOfNotebook = new ArrayList<String>();
-        while (s.hasNext()){
-            listOfNotebook.add(s.next());
-        }
-        s.close();*/
+     
 
     }
 
